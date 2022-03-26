@@ -2,7 +2,7 @@
 
 Just another jekyll theme. Demo: <http://redvi.github.io/voyager>
 
-### Feathures:
+### Features:
 
 All HTML files are compressed (see `_layouts/compress.html`).
 
