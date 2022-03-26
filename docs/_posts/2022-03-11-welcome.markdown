@@ -40,4 +40,4 @@ The apartment was nice, clean and efficient. It had a gas stove, a shower and be
 
 ![A cozy apartment done in a bohemian black and white aesthetic with dark wood floors and a number of mirrors.](/Warsaw/assets/images/apartment.JPEG)
 
-
+Sidebar image made with https://code2art.jetbrains.com
