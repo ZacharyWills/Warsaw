@@ -1,19 +1,16 @@
 ---
-bg: "owl.jpg"
+bg: "palace.JPEG"
 layout: page
-title: "About"
+title: "About Zach"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "Made this using GitHub Pages"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is a small blog page I made to recount my time in Warsaw in March 2022 following the Russian invasion of Ukraine.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I'm a graduate of the [University of Missouri Columbia](https://missouri.edu) in International Studies, with a minor in Russian and a Multicultural Certificate. 
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+For more about my day-to-day work at [NOAA's National Water Center](http://github.com/NOAA-OWP) check [me](https://github.com/ZacharyWills) out on GitHub.
+
