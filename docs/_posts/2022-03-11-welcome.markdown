@@ -8,10 +8,11 @@ categories: posts
 tags: 'poland'
 author: ZacharyWills
 ---
+:flight_departure:
 
-On March 11th, I drove to ATL's Hartsfield-Jackson International Airport and left my Volvo in the lot and flew :flight_departure: to JFK airport in NY. 
+On March 11th, I drove to ATL's Hartsfield-Jackson International Airport and left my Volvo in the lot and flew to JFK airport in NY. 
 
-Arriving over the Atlantic :ocean: I would recommend looking out of the aircraft to the West and to see Manhattan rise out of the landscape. 
+Arriving over the Atlantic I would recommend looking out of the aircraft to the West and to see Manhattan rise out of the landscape. 
 
 ![Arrival at JFK](/Warsaw/assets/images/jfk_landing.JPEG)
 
