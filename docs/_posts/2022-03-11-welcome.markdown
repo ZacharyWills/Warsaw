@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Welcome to Poland!"
+crawlertitle: "Travelling and Experiencing Poland"
+summary: "Start here"
+date:   2022-03-11 23:09:47 +0700
+categories: posts
+tags: 'poland'
+author: ZacharyWills
+---
+
+On March 11th, I drove to ATL's Hartsfield-Jackson International Airport and left my Volvo in the lot and flew :flight_departure: to JFK airport in NY. 
+
+Arriving over the Atlantic :ocean: I would recommend looking out of the aircraft to the West and to see Manhattan rise out of the landscape. 
+
+[Arrival at JFK](/assets/images/jfk_landing.JPEG)
+
+[While at JFK I visited the TWA lounge at Gate 5:](/assets/images/twa.JPEG)
+
+[And filled out the Polish paperwork that they sent me, which was very easy to do!](/assets/images/polish_PLF.jpeg)
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
