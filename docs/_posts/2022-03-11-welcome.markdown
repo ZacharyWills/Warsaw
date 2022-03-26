@@ -13,11 +13,11 @@ On March 11th, I drove to ATL's Hartsfield-Jackson International Airport and lef
 
 Arriving over the Atlantic :ocean: I would recommend looking out of the aircraft to the West and to see Manhattan rise out of the landscape. 
 
-[Arrival at JFK](/assets/images/jfk_landing.JPEG)
+![Arrival at JFK](/assets/images/jfk_landing.JPEG)
 
-[While at JFK I visited the TWA lounge at Gate 5:](/assets/images/twa.JPEG)
+![While at JFK I visited the TWA lounge at Gate 5:](/assets/images/twa.JPEG)
 
-[And filled out the Polish paperwork that they sent me, which was very easy to do!](/assets/images/polish_PLF.jpeg)
+![And filled out the Polish paperwork that they sent me, which was very easy to do!](/assets/images/polish_PLF.jpeg)
 
 Jekyll also offers powerful support for code snippets:
 
