@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Poland!"
+title:  "Travelling to Poland!"
 crawlertitle: "Travelling to Poland"
-summary: "Start here"
+summary: "Getting There"
 date:   2022-03-11 23:09:47 +0700
 categories: posts
 tags: 'poland'
