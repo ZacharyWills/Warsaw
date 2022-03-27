@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Is the food good?"
+crawlertitle: "Polish Food in Warsaw"
+summary: "Yes the food is good"
+date:   2022-03-15 23:09:47 +0700
+categories: posts
+tags: 'poland'
+author: ZacharyWills
+---
+
+I think no where does the distance between people's expectations of Poland (largely from the Cold War and WWII) show as large as food. Below is a sampling of things that I ate, and restaurants where I ate the food too quickly to get a picture, from the time in Warsaw (and the airspace over Europe):
+
+![A picture of food I ate in Poland.](/Warsaw/assets/images/thai.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/pierogi.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/krowarzywa.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/kanapka.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/muffin.jpeg)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/kebap.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/selfie.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/candyshop.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/bk.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/tacos.JPEG)
+![A picture of food I ate in Poland.](/Warsaw/assets/images/LOT.JPEG) 
+
